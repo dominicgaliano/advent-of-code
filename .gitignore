@@ -1,0 +1,4 @@
+# Only track files with extension
+*
+!*/
+!*.*
